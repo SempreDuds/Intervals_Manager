@@ -1,0 +1,13 @@
+INTERVALS MANAGER 4.0 — PORTUGUES / ENGLISH
+
+1) Instale Python 3.10+ em python.org/downloads (marque Add Python to PATH).
+2) Abra iniciar_windows.bat na pasta extraida.
+3) Na aba Conexao, salve e teste sua API Key.
+4) No canto superior direito, escolha Portugues (Brasil) ou English.
+5) Abra Gerador, analise suas corridas, crie seu plano e revise a previa.
+6) Salve a pasta do plano. Envie pelo editor somente apos conferir.
+
+ATENCAO: a API Key fica no arquivo config.json desta pasta.
+Nao compartilhe esse arquivo. Exclusoes sao permanentes, com backup previo.
+
+For English instructions, read START_HERE_EN.txt or README.md.

@@ -1,0 +1,13 @@
+INTERVALS MANAGER 4.0 — QUICK START (ENGLISH)
+
+1. Install Python 3.10+ from python.org/downloads. Enable Add Python to PATH.
+2. Extract the ZIP file and double-click iniciar_windows.bat.
+3. In Connection, paste your Intervals.icu API key, save it, and test it.
+4. Choose English using the Language dropdown at the top right.
+5. Open Plan Builder to review activity history, create and preview workouts.
+6. Save your plan to a Windows folder. Review it in My Plans before uploading.
+
+IMPORTANT: Your API key is stored in plain text in config.json. Never share it.
+Remote deletions are permanent. The app creates a JSON backup first.
+
+Read README.md for full instructions and training limitations.
