@@ -41,10 +41,3 @@ O **Intervals Manager** é uma aplicação desktop leve e offline-first desenvol
 - **Integração:** Requests (API REST Intervals.icu)
 
 ---
-
-## 🚀 Como Executar
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-   cd seu-repositorio
